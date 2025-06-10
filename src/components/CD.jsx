@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 
 const CD = () => {
@@ -7,14 +6,4 @@ const CD = () => {
   )
 }
 
-=======
-import React from 'react'
-
-const CD = () => {
-  return (
-    <div>CD</div>
-  )
-}
-
->>>>>>> 954e9f4 (Reviews Added)
 export default CD

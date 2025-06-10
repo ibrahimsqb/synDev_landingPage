@@ -128,18 +128,6 @@
   gap: 16px; /* Adjust the gap between cards as needed */
 }
 
-<<<<<<< HEAD
-=======
-.testimonial-card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  max-width: 300px; /* Adjust the max-width as needed */
-}
-.testimonial-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
->>>>>>> 954e9f4 (Reviews Added)
 .blue__gradient {
   background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
   filter: blur(123px);
