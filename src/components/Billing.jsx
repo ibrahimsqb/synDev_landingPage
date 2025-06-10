@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react'
 
 const Billing = () => {
@@ -6,4 +7,14 @@ const Billing = () => {
   )
 }
 
+=======
+import React from 'react'
+
+const Billing = () => {
+  return (
+    <div>Billing</div>
+  )
+}
+
+>>>>>>> 954e9f4 (Reviews Added)
 export default Billing
