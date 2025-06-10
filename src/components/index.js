@@ -1,5 +1,7 @@
 import Navbar from "./Navbar";
 import Testimonials from "./Testimonials";
+import TestimonialCard from "./TestimonialCard";
+import Reviews from "./Reviews";
 import Stats from "./Stats";
 import Hero from "./Hero";
 import GetStarted  from "./GetStarted";
@@ -25,6 +27,8 @@ export{
     CD,
     Button,
     Business,
-    Billing
+    Billing,
+    TestimonialCard,
+    Reviews
 }
 

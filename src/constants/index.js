@@ -67,6 +67,30 @@ export const feedback = [
   },
 ];
 
+export const testimonials = [
+  {
+    id: "testimonials-1",
+    img: people01,
+    name: "Sadie Johnson",
+    title: "Founder, ByteBloom",
+    description: "Syndicate Dev didn’t just build us software — they built momentum. Their futuristic mindset and agile team turned our roadmap into reality faster than we imagined.",
+  },
+  {
+    id: "testimonials-2",
+    img: people02,
+    name: "Alam Raza Minhas",
+    title: "CTO, Finvestify",
+    description: "From data dashboards to backend infrastructure, Syndicate Dev delivered cutting-edge solutions that scaled with our needs. Tech partners like these are rare.",
+  },
+  {
+    id: "testimonials-3",
+    img: people03,
+    name: "Arthur Smith",
+    title: "COO, LinkAura",
+    description: "Their team moves like a startup but thinks like a Fortune 500 consultancy. Working with Syndicate Dev felt like gaining a tech division overnight.",
+  },
+];
+
 export const stats = [
   {
     id: "stats-1",
