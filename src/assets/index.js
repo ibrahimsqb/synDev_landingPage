@@ -18,10 +18,6 @@ import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
 import pp1 from "./pp1.png";
-<<<<<<< HEAD
-=======
-import popo from "./popo.jpeg";
->>>>>>> 954e9f4 (Reviews Added)
 import pp2 from "./pp2.png";
 import pp3 from "./pp3.png";
 import instagram from "./instagram.svg";
@@ -62,10 +58,5 @@ export {
   synDevLogobg,
   pp1,
   pp2,
-<<<<<<< HEAD
   pp3
-=======
-  pp3,
-  popo
->>>>>>> 954e9f4 (Reviews Added)
 };
